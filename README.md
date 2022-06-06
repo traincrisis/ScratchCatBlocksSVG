@@ -19,3 +19,6 @@ event block - #ffbf00
 control block - #ffab19
 custom block - #ff6680
 hacked block - #ff0000
+:octocat:
+:bowtie:
+:trollface:
